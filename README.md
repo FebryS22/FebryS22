@@ -1,11 +1,11 @@
 # Curiculum Vitae
--Nama          : Febry Angeline Sirape
--TTL           : Banyuwangi, 22 February 2002
--Jenis Kelamin : Perempuan
--Agama         : Kristen Protestan
--Alamat        : Kmp.Pinebentengang
--Telepon       : 0822-9351-8012
--E-mail        :febrysirape@gmail.com
+- Nama          : Febry Angeline Sirape
+- TTL           : Banyuwangi, 22 February 2002
+- Jenis Kelamin : Perempuan
+- Agama         : Kristen Protestan
+- Alamat        : Kmp.Pinebentengang
+- Telepon       : 0822-9351-8012
+- E-mail        :febrysirape@gmail.com
 
 ## Pendidikan
 - 2017-2020 SMA NEGERI 1 MANGANITU
